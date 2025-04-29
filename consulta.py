@@ -1,5 +1,5 @@
 import pyodbc
-
+ 
 
 server = 'FAC-DB53.facta.com.br'
 database = 'Facta_01_BaseDados'
